@@ -4,9 +4,9 @@
 - Markdown Guide - https://www.markdownguide.org/
 - Git Handbook - https://guides.github.com/introduction/git-handbook/
 ## Tools I Use
-- Visual Studio Code
-- Gooogle
-- Google Docs
+- Visual Studio Code (I use this as my text editor)
+- Gooogle (The web browser I use)
+- Google Docs ( For making notes)
 ## Class Schedule
 | Time | Monday | Tuesday |
 |------|--------|---------|
